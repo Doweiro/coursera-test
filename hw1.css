@@ -6,7 +6,7 @@ body{
 header{
   width: 100%;
   height: 200px;
-  background: url('/images/flywheel.jpg');
+  background: url("images/flywheel.jpg");
   background-size: cover;
 }
 header>h1{
